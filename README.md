@@ -8,7 +8,7 @@
 快速部署
 
 ```bash
-curl -sSfL https://raw.githubusercontent.com/xyhelper/chatgpt-share-server/deploy/quick-install.sh | bash
+curl -sSfL https://raw.githubusercontent.com/jv4fan/chatgpt-share-server/deploy/quick-install.sh | bash
 ```
 
 ## 文档
